@@ -20,6 +20,8 @@ A Python-based script designed to scrape various types of content—such as free
 
 ##  How to Buy
 Contact me here: karimchatty.busy@gmail.com 
+or 
+get instance download on :https://karimchatty.gumroad.com/l/scrap
 
 
 
